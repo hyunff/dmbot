@@ -3,7 +3,7 @@ import discord
 import asyncio
 import datetime
 
-token = "NzI3MzQ3NDU4Mjg3MzM3NTEy.XvqhGw.SLaqGG5My6-nefqFzaY64f6DpeA"
+token = "NzI3MzQ3NDU4Mjg3MzM3NTEy.XvqhGw.PmDnNUj6NN9BTkIQ8hlU-jZybGY"
 client = discord.Client()
 
 @client.event
